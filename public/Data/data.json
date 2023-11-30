@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "picture": "https://cdn.ttgtmedia.com/rms/onlineimages/hp_elitebook_mobile.jpg",
+        "name": "Laptop",
+        "details": "A laptop computer or notebook computer, also known as a laptop or notebook for short, is a small, portable personal computer (PC). "
+    },
+    {
+        "id": "2",
+        "picture": "https://www.pexels.com/search/mobile%20phone/",
+        "name": "Mobile",
+        "details": "The mobile phone can be used to communicate over long distances without wires."
+    },
+    {
+        "id": "3",
+        "picture": "https://visionemporiumbd.com/images/detailed/119/Code_873077_32''_K10_Smart_Infinity.jpg",
+        "name": "TV",
+        "details": "Television (TV) is a telecommunication medium for transmitting moving images and sound."
+    }
+]
